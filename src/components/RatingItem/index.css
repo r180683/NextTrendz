@@ -1,0 +1,18 @@
+.category-items-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  list-style-type: none;
+  padding: 0px;
+}
+.rating-btn {
+  margin-bottom: 20px;
+  cursor: pointer;
+  border: 0px;
+  background-color: transparent;
+  min-width: 50%;
+}
+.rating-image {
+  width: 100%;
+  height: 30px;
+}
